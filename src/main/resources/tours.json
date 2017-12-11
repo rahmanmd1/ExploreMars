@@ -1,0 +1,26 @@
+[		
+{
+"title":"A Calmness in Mars", 
+"description":"Get To know the details of calmness in Mars",
+"blurb":"This region is extremly quite and ......",
+"price":"200000",
+"duration":"4 days",
+"bullets":"Ticket for rocket ship, ticket for accomodation, food, theater and ...etc",
+"keywords":"Ice, Calm, Quite, Zero",
+"packageType":"Mars Calm",
+"difficulty":"Medium",
+"region":"Alba Mons"
+},
+{
+"title":"Desert and Hot in Mars", 
+"description":"How hot it might be, lets explore",
+"blurb":"Medium to extremly hot ......",
+"price":"300000",
+"duration":"5 days",
+"bullets":"Clothings, Ticket for rocket ship, ticket for accomodation, food, theater and ...etc",
+"keywords":"Desert,Hot, Calm, Quite, Boil",
+"packageType":"From Desert to Sea",
+"difficulty":"Waries",
+"region":"Hellas Basin"
+}
+]

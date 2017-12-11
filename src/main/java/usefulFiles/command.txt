@@ -1,0 +1,43 @@
+# Start with a port from command 
+
+java -jar -Dserver.port=8091 target/......jar
+
+
+
+Rest URLS:  
+
+#  Tour
+
+http://localhost:9090/tours/search/
+http://localhost:9090/tours/search/findByTourPackageCode?code=Mars%20Calm
+
+#  Tour-Package
+
+
+
+
+
+#  Paging param.
+
+ name +  default
+ ==================
+
+ size   20 
+ page    0
+ sort    id 
+ asc,desc
+ 
+http://localhost:9090/tours/search/findByTourPackageCode?code=MC&size=3&sort=title,desc
+
+
+
+# Rating 
+
+http://localhost:9090/tours/1/ratings?size=3&sort=comment,desc
+
+
+ 
+ 
+ 
+ 
+ 
