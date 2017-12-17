@@ -1,7 +1,7 @@
 
 # Explore Mars
 
-A simple Spring Boot application to demonstrate CRUD operations  
+A simple Spring Boot application to demonstrate CRUD operations with Spring JPA Data. This is a basic application to  demnostrate how Spring JPA data provides n number of out of the box methods to support CRUD operations.    
 
 ## Getting Started
 
